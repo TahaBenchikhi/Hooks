@@ -1,0 +1,2 @@
+#!/bin/sh
+echo "# hey bro can you write a understandble commit Message :) " > $1
